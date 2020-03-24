@@ -1,0 +1,2 @@
+module Html::TopHelper
+end
